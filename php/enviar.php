@@ -52,7 +52,7 @@ if($mail->Send())
 {
 	echo'<script type="text/javascript">
 			alert("Enviado Correctamente");
-			window.location="www.cienciaylogica.org";
+			window.location="http://www.logicayciencia.org";
 		 </script>';
 }
 else{
