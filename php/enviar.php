@@ -27,7 +27,7 @@ $mail->Username ='logicayciencia@gmail.com';
 $mail->Password = "logiciencia2018";
 
 //Agregar destinatario
-$mail->AddAddress("xtianthony@gmail.com");
+$mail->AddAddress("logicayciencia@unsa.edu.pe");
 $mail->Subject = $name;
 $mail->Body = 
 	"Nombre: $name \n".
