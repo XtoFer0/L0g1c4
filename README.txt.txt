@@ -1,0 +1,1 @@
+Leer este texto antes de utilizar la página
